@@ -1,30 +1,25 @@
 
 
 ## Geoffrey Ragot
-### **Développeur backend**
-* * *
+> **Développeur backend**
+> 
 > <i class="fa fa-phone"> </i> Mobile : +336.83.40.89.08
-
 > <i class="fa fa-github"> </i> Github : http://github.com/arcamael
-
 > <i class="fa fa-linkedin-square"> </i> LinkedIn : https://www.linkedin.com/pub/geoffrey-ragot
-
 > <i class="fa fa-envelope"></i> geoffrey.ragot@gmail.com
-
 > <i class="fa fa-globe"> </i> Addr : Rue Ste Anne, 61570 Mortrée, France
 
+* * *
 ### **Résumé**
 
-> Plus qu'un simple travail, le développement est pour moi une certaine forme d'art que je ne me lasse pas de pratiquer.
-
-> Mes compétences s'appuient sur une bonne capacité d'apprentissage, de la rigueur dans les méthodes (Test Driven Development, UML...), ainsi qu'une insatiable curiosité envers le fourmillement de technologie qui pullule aujourd'hui sur le Web.
+> Mes compétences s'appuient sur une bonne capacité d'apprentissage, de la rigueur dans les méthodes (Test Driven Development, UML...), ainsi qu'une grande curiosité envers le fourmillement de technologie qui pullule aujourd'hui sur le Web.
 
 ### **Expériences**
 
 #### Oct. 2012 - Actuellement : OMWAVE
 
 > * Mise en place de services web autour d'objets connectés (en PHP puis Java/JEE).
-Ces services ont pour vocation de présenter des interfaces d'accès haut niveau (API RESTFUL) vers des objets connectés bas niveau (communication UDP, 3G, GPRS...)
+Ces services ont pour vocation de présenter des interfaces d'accès haut niveau (API RESTFUL) vers des objets connectés bas niveau (communication UDP, 3G, GPRS...).
 
 > * Mise en place d'un environnement de développement pour des besoins internes architecturé autour de la  technologie Docker, incluant des services tel que Nexus, VPN, registre Docker, serveur CouchDB, système de gestion de déploiement automatisé (propriétaire) etc...
 
@@ -32,27 +27,27 @@ Ces services ont pour vocation de présenter des interfaces d'accès haut niveau
 
 #### Sept. 2011 - Oct. 2012 : Auto-entreprise
 
-> * Refonte du site web http://electricshop.fr avec PrestaShop
+> * Développement de site internet : Refonte du site web http://electricshop.fr avec PrestaShop (développement de plugins). Gestion d'un serveur dédié.
 > 
-> * Développement d'application Android 
+> * Développement d'application Android  : Lecteur audio, application de prise de note
 > 
-> * Sous-traitance pour la société Kiosys
+> * Sous-traitance pour la société Kiosys : Développement de plugins sous Joomla
 
 ### **Compétences**
 
-> * Framework : JEE, AngularJS, Symfony2
+> * Framework : JEE, AngularJS, Symfony2, BootstrapTwitter
 > 
 > * Language : Java, Javascript, Golang, Php, HTML5
 > 
 > * IDE : Intellij, Eclipse, SublimeText
 > 
-> * Outils : Docker, Vagrant
+> * Outils : Docker, Vagrant, VirtualBox
 > 
 > * Déploiements : Ansible, bash
 > 
 > * SCM : Git
 > 
-> * Systemes : Linux (Ubuntu, Debian, Redhat), utilisation quotidienne
+> * Systemes : Linux (Debian, Ubuntu), utilisation de Windows (si nécessaire...)
 
 ### **Formation**
 
