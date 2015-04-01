@@ -22,27 +22,36 @@
 ### **Expériences**
 
 #### Oct. 2012 - Actuellement : OMWAVE
-> Mise en place de services web autour d'objets connectés (en PHP puis Java/JEE).
+
+> * Mise en place de services web autour d'objets connectés (en PHP puis Java/JEE).
 Ces services ont pour vocation de présenter des interfaces d'accès haut niveau (API RESTFUL) vers des objets connectés bas niveau (communication UDP, 3G, GPRS...)
 
-> Mise en place d'un environnement de développement pour des besoins internes architecturé autour de la  technologie Docker, incluant des services tel que Nexus, VPN, registre Docker, serveur CouchDB, système de gestion de déploiement automatisé (propriétaire) etc...
+> * Mise en place d'un environnement de développement pour des besoins internes architecturé autour de la  technologie Docker, incluant des services tel que Nexus, VPN, registre Docker, serveur CouchDB, système de gestion de déploiement automatisé (propriétaire) etc...
 
-> Développement d'application web s'interfaçant avec différentes API RESTUL au moyen du framework AngularJS, ainsi que de différentes librairies AdHoc (Développements s'appuyant sur des besoins internes)
+> * Développement d'application web s'interfaçant avec différentes API RESTUL au moyen du framework AngularJS, ainsi que de différentes librairies AdHoc (Développements s'appuyant sur des besoins internes)
 
 #### Sept. 2011 - Oct. 2012 : Auto-entreprise
 
 > * Refonte du site web http://electricshop.fr avec PrestaShop
+> 
 > * Développement d'application Android 
+> 
 > * Sous-traitance pour la société Kiosys
 
 ### **Compétences**
 
 > * Framework : JEE, AngularJS, Symfony2
+> 
 > * Language : Java, Javascript, Golang, Php, HTML5
+> 
 > * IDE : Intellij, Eclipse, SublimeText
+> 
 > * Outils : Docker, Vagrant
+> 
 > * Déploiements : Ansible, bash
+> 
 > * SCM : Git
+> 
 > * Systemes : Linux (Ubuntu, Debian, Redhat), utilisation quotidienne
 
 ### **Formation**
