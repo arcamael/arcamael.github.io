@@ -4,9 +4,13 @@
 ### **Développeur backend**
 * * *
 > <i class="fa fa-phone"> </i> Mobile : +336.83.40.89.08
+
 > <i class="fa fa-github"> </i> Github : http://github.com/arcamael
+
 > <i class="fa fa-linkedin-square"> </i> LinkedIn : https://www.linkedin.com/pub/geoffrey-ragot
+
 > <i class="fa fa-envelope"></i> geoffrey.ragot@gmail.com
+
 > <i class="fa fa-globe"> </i> Addr : Rue Ste Anne, 61570 Mortrée, France
 
 ### **Résumé**
