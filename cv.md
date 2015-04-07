@@ -21,7 +21,7 @@
 > * Mise en place de services web autour d'objets connectés (en PHP puis Java/JEE).
 Ces services ont pour vocation de présenter des interfaces d'accès haut niveau (API RESTFUL) vers des objets connectés bas niveau (communication UDP, 3G, GPRS...).
 
-> * Mise en place d'un environnement de développement pour des besoins internes architecturé autour de la  technologie Docker, incluant des services tel que Nexus, VPN, registre Docker, serveur CouchDB, système de gestion de déploiement automatisé (propriétaire) etc...
+> * Mise en place d'un environnement de développement pour des besoins internes architecturé autour de la  technologie Docker, incluant des services tel que Nexus (Gestion des dépendances Java), VPN (accès sécurisé pour les travailleurs remote), registre Docker (Stockage d'application), système de gestion de déploiement automatisé (propriétaire) etc...
 
 > * Développement d'application web s'interfaçant avec différentes API RESTUL au moyen du framework AngularJS, ainsi que de différentes librairies AdHoc (Développements s'appuyant sur des besoins internes)
 
@@ -57,7 +57,7 @@ Ces services ont pour vocation de présenter des interfaces d'accès haut niveau
 > 2005 - 2007 : **DUT informatique Génie Logiciel** (Université de Caen Basse Normandie)
 > Etude des architectures PC et réseaux, développement Java, gestion de base de données, méthodes Merise/UML
 
-> 2004 - 2007 : **Bac S** (Lycée Andrée Maurois - Deauville)
+> 2002 - 2005 : **Bac S** (Lycée Andrée Maurois - Deauville)
 
 ### **Hobbies**
 
