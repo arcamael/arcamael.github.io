@@ -4,7 +4,7 @@
 > **Développeur backend**
 > 
 > <i class="fa fa-phone"> </i> Mobile : +336.83.40.89.08
-> <i class="fa fa-github"> </i> Github : http://github.com/arcamael
+> <i class="fa fa-github"> </i> Github : http://github.com/gfyrag
 > <i class="fa fa-linkedin-square"> </i> LinkedIn : https://www.linkedin.com/pub/geoffrey-ragot
 > <i class="fa fa-envelope"></i> geoffrey.ragot@gmail.com
 > <i class="fa fa-globe"> </i> Addr : Rue Ste Anne, 61570 Mortrée, France
@@ -37,7 +37,7 @@ Ces services ont pour vocation de présenter des interfaces d'accès haut niveau
 
 > * Framework : JEE, AngularJS, Symfony2, BootstrapTwitter
 > 
-> * Language : Java, Javascript, Golang, Php, HTML5
+> * Language : Java, Javascript, Golang, Php, HTML5, Json, Xml
 > 
 > * IDE : Intellij, Eclipse, SublimeText
 > 
