@@ -63,5 +63,3 @@ Ces services ont pour vocation de présenter des interfaces d'accès haut niveau
 
 >Travailler sur Linux, Golang, Docker etc...
 Pratiquer la guitare (Folk, rock)
-Tenter de conquérir le monde!
-
