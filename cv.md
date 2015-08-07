@@ -16,7 +16,11 @@
 
 ### **Expériences**
 
-#### Oct. 2012 - Actuellement : OMWAVE
+#### Juillet 2015 - Actuellement : Cirruseo
+
+> * Développement d'application Web (frontend et backend) autour des technologies Google (Google App Engine, Big Query, Datastore...) via le language Python.
+
+#### Oct. 2012 - Juin 2015 : OMWAVE
 
 > * Mise en place de services web autour d'objets connectés (en PHP puis Java/JEE).
 Ces services ont pour vocation de présenter des interfaces d'accès haut niveau (API RESTFUL) vers des objets connectés bas niveau (communication UDP, 3G, GPRS...).
@@ -35,11 +39,11 @@ Ces services ont pour vocation de présenter des interfaces d'accès haut niveau
 
 ### **Compétences**
 
-> * Framework : JEE, AngularJS, Symfony2, BootstrapTwitter
+> * Framework : JEE, Arquillian, Hibernates, AngularJS, Symfony2, BootstrapTwitter
 > 
-> * Language : Java, Javascript, Golang, Php, HTML5, Json, Xml
+> * Language : Java, Python, Javascript, Golang, Php, HTML5, Json, Xml
 > 
-> * IDE : Intellij, Eclipse, SublimeText
+> * IDE : Intellij, PyCharm, Eclipse, SublimeText
 > 
 > * Outils : Docker, Vagrant, VirtualBox
 > 
@@ -47,7 +51,9 @@ Ces services ont pour vocation de présenter des interfaces d'accès haut niveau
 > 
 > * SCM : Git
 > 
-> * Systemes : Linux (Debian, Ubuntu), utilisation de Windows (si nécessaire...)
+> * Outils : Apache, NGinx, Wildfly, Composer, Maven
+> 
+> * Systemes : Linux (Debian, Ubuntu - utilisation avancée), utilisation MacOSX (simple utilisateur) et de Windows (si nécessaire...)
 
 ### **Formation**
 
